@@ -1,3 +1,14 @@
+## 4.3.0
+- Additions
+  - TokenizationParameters class to add a Customer ID to a tokenization
+
+- Changes
+  - beginTokenization now takes a TokenizationParameters object as the only parameter
+
+- Fixes
+  - Various bug fixes and performance improvements
+
+
 ## 4.2.0
 - Additions
   - Ability to create Historical Transactions from charge IDs
