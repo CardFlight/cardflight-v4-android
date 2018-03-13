@@ -1,3 +1,14 @@
+## 4.3.2
+- Additions
+  - N/A
+
+- Changes
+  - N/A
+
+- Fixes
+  - Various bug fixes and performance improvements
+
+
 ## 4.3.0
 - Additions
   - TokenizationParameters class to add a Customer ID to a tokenization
