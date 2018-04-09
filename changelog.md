@@ -1,3 +1,14 @@
+## 4.4.0
+- Additions
+  - N/A
+
+- Changes
+  - CVV is now optional on the `KeyedEntryView`
+
+- Fixes
+  - Various bug fixes and performance improvements
+
+
 ## 4.3.2
 - Additions
   - N/A
