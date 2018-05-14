@@ -1,3 +1,14 @@
+## 4.4.1
+- Additions
+  - N/A
+
+- Changes
+  - N/A
+
+- Fixes
+  - Various bug fixes and performance improvements
+
+
 ## 4.4.0
 - Additions
   - N/A
