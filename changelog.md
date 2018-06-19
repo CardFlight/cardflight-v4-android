@@ -1,18 +1,14 @@
+## 4.4.2
+- Fixes
+  - Improved reader connectivity for the B550
+
+
 ## 4.4.1
-- Additions
-  - N/A
-
-- Changes
-  - N/A
-
 - Fixes
   - Various bug fixes and performance improvements
 
 
 ## 4.4.0
-- Additions
-  - N/A
-
 - Changes
   - CVV is now optional on the `KeyedEntryView`
 
@@ -21,12 +17,6 @@
 
 
 ## 4.3.2
-- Additions
-  - N/A
-
-- Changes
-  - N/A
-
 - Fixes
   - Various bug fixes and performance improvements
 
@@ -48,9 +38,6 @@
   - Additional field to Historical Transactions
   - Utility class to allow reader connection outside of Transaction
   - Auto config support for improving connections with Audio Jack readers
-
-- Changes
-  - N/A
 
 - Fixes
   - Various bug fixes and performance improvements
