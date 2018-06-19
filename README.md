@@ -15,7 +15,7 @@ include: ':cardflight-v4-android'
 
 3. Add it as a dependency to your app's Gradle file (`build.gradle`)
 ```
-compile project(':cardflight-v4-android')
+implementation project(':cardflight-v4-android')
 ```
 
 4. Sync your project with Gradle files
@@ -23,4 +23,4 @@ compile project(':cardflight-v4-android')
 
 # Documentation
 
-Full documentation can be found  [here](http://docs.cardflight.com/sdk_documentation/).
+Full documentation can be found [here](http://docs.cardflight.com/sdk_documentation/).
