@@ -1,3 +1,8 @@
+# 4.5.0
+- Fixes
+  - Dates on HistoricalTransaction objects
+
+
 ## 4.4.2
 - Fixes
   - Improved reader connectivity for the B550
