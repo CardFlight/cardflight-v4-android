@@ -1,4 +1,9 @@
-# 4.5.0
+## 4.5.1
+- Fixes
+  - Improved connectivity for Samsung Galaxy S7 devices
+
+
+## 4.5.0
 - Fixes
   - Dates on HistoricalTransaction objects
 
