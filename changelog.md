@@ -1,3 +1,11 @@
+## 4.5.2
+- Additions
+  - Card ID is now provided on the `CardInfo` object
+
+- Fixes
+  - Large transaction amounts can now be processed using more readers
+
+
 ## 4.5.1
 - Fixes
   - Improved connectivity for Samsung Galaxy S7 devices
