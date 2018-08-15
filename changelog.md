@@ -1,3 +1,8 @@
+## 4.5.3
+- Additions
+  - Debug logging is now available in the LoggerHandler
+
+
 ## 4.5.2
 - Additions
   - Card ID is now provided on the `CardInfo` object
