@@ -1,3 +1,11 @@
+## 4.6.0
+- Additions
+  - Accept AVS details on keyed transactions
+
+- Changes
+  - Keyed transactions can be disabled
+
+
 ## 4.5.3
 - Additions
   - Debug logging is now available in the LoggerHandler
