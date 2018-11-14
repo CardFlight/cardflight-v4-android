@@ -1,3 +1,10 @@
+## 4.6.2
+- Fixes
+  - Don't require CVV for keyed transactions
+  - Change process prompt for tokenization transactions
+  - Various bug fixes and performance improvements
+
+
 ## 4.6.0
 - Additions
   - Accept AVS details on keyed transactions
