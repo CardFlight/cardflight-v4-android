@@ -1,3 +1,8 @@
+## 4.6.3
+- Fixes
+  - Various bug fixes and performance improvements
+
+
 ## 4.6.2
 - Fixes
   - Don't require CVV for keyed transactions
