@@ -1,3 +1,15 @@
+## 4.8.10
+- Additions
+  - TransactionManager to create transactions
+  - MerchantAccountManager to create merchant accounts
+- Changes
+  - Credentials became MerchantAccount
+  - HistoricalTransaction became TransactionRecord
+  - Many classes deprecated and will be removed in v4.9.0
+- Fixes
+  - Various bug fixes and performance improvements
+
+
 ## 4.6.3
 - Fixes
   - Various bug fixes and performance improvements

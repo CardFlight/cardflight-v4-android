@@ -1,0 +1,10 @@
+$dokka.format:gfm
+$dokka.linkExtension:md
+
+com.cardflight.sdk
+com.cardflight.sdk.core
+com.cardflight.sdk.core.base
+com.cardflight.sdk.core.enums
+com.cardflight.sdk.core.exceptions
+com.cardflight.sdk.core.interfaces
+com.cardflight.sdk.enumerations
