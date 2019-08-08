@@ -1,3 +1,11 @@
+## 4.8.14
+- Additions
+  - `TransactionState.PENDING_ADJUSTMENT` and `TransactionState.PENDING_CVM`
+- Fixes
+  - Keyed Entry not always being available when it should
+  - Various bug fixes and performance improvements
+
+
 ## 4.8.10
 - Additions
   - TransactionManager to create transactions
